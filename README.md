@@ -54,6 +54,11 @@
 |ライト|約2,140円|約21,400円|
 |ビジネス|約4,300年|約43,000円|
 
-※ 2018年7月に新プランの提供開始予定
+### 会社設立 freee を利用する場合の特記事項
+- 通常であれば、電子定款の事務手数料が5,000円。年間契約することで0年になるキャンペーン中。
+- 2018年7月に新プランの提供開始予定
 
-参考: https://www.freee.co.jp/houjin/price/
+### freee の参考URL
+
+- 会社設立 freee: https://www.freee.co.jp/launch/
+- 法人プラン: https://www.freee.co.jp/houjin/price/
