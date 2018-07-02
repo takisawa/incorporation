@@ -71,6 +71,16 @@
 - 中小機構: http://www.smrj.go.jp/kyosai/tkyosai/about/features/index.html
 
 
+## パートナーを役員にする場合
+
+- 業務時間・内容によって、常勤役員・非常勤役員のどちらになるかが決まる。
+- フリーランスエンジニアのパートナーで、月に数日、数時間程度の経理作業を手伝っているくらいの場合、非常勤役員とすることができる。
+- 非常勤役員かつ、年103万円以下の給与の場合、所得税がかからない。
+- また年130万円以下の場合には、社会保険証は被扶養者（第3号）の扱いとなる。
+
+### パートナーを役員にする場合の参考URL
+- https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1800.htm
+
 
 ## クラウド会計ソフト freee 法人向け料金プラン
 
@@ -87,7 +97,3 @@
 
 - 会社設立 freee: https://www.freee.co.jp/launch/
 - 法人プラン: https://www.freee.co.jp/houjin/price/
-
-
-## 検討事項
-### 妻を役員にするのか
