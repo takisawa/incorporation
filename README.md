@@ -49,7 +49,16 @@ http://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html#anchor8
 定款に記載した場合は必要なし。
 
 
-### 厚生年金保険
+## 健康保険
+
+## 厚生年金保険
+
+## 労働保険（労災保険・雇用保険）
+
+労働者（パートタイマー、アルバイトを含む、役員は除く）を一人も雇用していなければ、労働保険（労災保険、雇用保険）に加入する必要はない。
+
+参考: 労働保険とはこのような制度です｜厚生労働省
+https://www.mhlw.go.jp/bunya/roudoukijun/howtoroudouhoken/index.html
 
 
 ## 退職金
@@ -67,18 +76,10 @@ http://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html#anchor8
 
 ## 法人保険
 
-## 厚生年金保険
-
-## 健康保険
 
 ## 介護保険
 
-## 労働保険（労災保険・雇用保険）
 
-労働者（パートタイマー、アルバイトを含む、役員は除く）を一人も雇用していなければ、労働保険（労災保険、雇用保険）に加入する必要はない。
-
-参考: 労働保険とはこのような制度です｜厚生労働省
-https://www.mhlw.go.jp/bunya/roudoukijun/howtoroudouhoken/index.html
 
 ## 経営セーフティ共済
 
