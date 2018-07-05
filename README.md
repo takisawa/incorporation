@@ -60,7 +60,14 @@ http://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html#anchor8
 健康保険の新規適用手続きは`日本年金機構`に説明がある。
 http://www.nenkin.go.jp/service/kounen/jigyosho-hiho/jigyosho/20150311.html
 
+また、上の事業者としての届けの他に、役員を含めた従業員分の被保険者としての届けも必要である。
+http://www.nenkin.go.jp/service/kounen/kenpo-todoke/hihokensha/20140718.html
+
 ## 厚生年金保険
+
+新規適用手続きは、健康保険と同じ用紙のため一緒に申請する。
+
+
 
 ## 労働保険（労災保険・雇用保険）
 
