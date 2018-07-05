@@ -97,6 +97,12 @@ https://www.mhlw.go.jp/bunya/roudoukijun/howtoroudouhoken/index.html
 
 ## 法人保険
 
+キーワード
+- 全額損金、半額損金がある（半額が損というわけではないらしい）
+- 養老保険
+- 法人保険は損金扱いにできる
+- ニッセイ福利厚生プランについて
+https://www.nissay.co.jp/hojin/shohin/keiei/plan/
 
 ## 介護保険
 
