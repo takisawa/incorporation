@@ -66,6 +66,10 @@ http://www.nenkin.go.jp/service/kounen/jigyosho-hiho/jigyosho/20150311.html
 また、上の事業者としての届けの他に、役員を含めた従業員分の被保険者としての届けも必要である。
 http://www.nenkin.go.jp/service/kounen/kenpo-todoke/hihokensha/20140718.html
 
+※ 法人成りとは関係ないが、40歳から64歳までは介護保険料（1.5%前後）も加算される。
+https://www.kyoukaikenpo.or.jp/g3/cat330/1995-298
+
+
 ## 厚生年金保険
 
 新規適用手続きは、健康保険と同じ用紙のため一緒に申請する。
@@ -106,9 +110,6 @@ https://www.mhlw.go.jp/bunya/roudoukijun/howtoroudouhoken/index.html
 - 法人保険は損金扱いにできる
 - ニッセイ福利厚生プランについて
 https://www.nissay.co.jp/hojin/shohin/keiei/plan/
-
-## 介護保険
-
 
 
 ## 経営セーフティ共済
