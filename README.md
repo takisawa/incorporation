@@ -91,8 +91,9 @@ https://www.kyoukaikenpo.or.jp/g3/cat330/sb3150/
 参考: 労働保険とはこのような制度です｜厚生労働省
 https://www.mhlw.go.jp/bunya/roudoukijun/howtoroudouhoken/index.html
 
+## 法人向けの生命保険（退職金積立て）
 
-## 退職金
+### 退職金
 
 退職所得の計算方法
 ```
@@ -104,10 +105,8 @@ https://www.mhlw.go.jp/bunya/roudoukijun/howtoroudouhoken/index.html
 |20年以下|40万円✕A|
 |20年超|800万円 + 70万円✕(A - 20年)|
 
+### キーワード
 
-## 法人保険
-
-キーワード
 - 全額損金、半額損金がある（半額が損というわけではないらしい）
 - 養老保険
 - 法人保険は損金扱いにできる
