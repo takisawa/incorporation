@@ -56,6 +56,14 @@ http://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html#anchor8
 定款に記載した場合は必要なし。
 
 
+### 法人設立届出書
+
+- 法人設立の日以後2ヶ月以内に税務署に提出する。
+- 届出書は下記のページからダウンロードできる `［手続名］内国普通法人等の設立の届出｜国税庁`
+https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/1554_2.htm
+
+
+
 ## 健康保険
 
 - 医療保険制度には `健康保険組合` と `全国健康保険協会（協会けんぽ）` がある。
