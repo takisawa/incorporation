@@ -73,6 +73,11 @@ http://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html#anchor8
 https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/1554_2.htm
 
 
+### 青色申告の承認申請書
+
+
+### 給与支払事務所等の開設届出書
+
 
 ## 健康保険
 
