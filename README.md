@@ -95,7 +95,6 @@ http://houmukyoku.moj.go.jp/homu/COMMERCE_11-1.html#anchor8
 - 届出書は下記のページからダウンロードできる `［手続名］内国普通法人等の設立の届出｜国税庁`
 https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hojin/annai/1554_2.htm
 
-
 ### 青色申告の承認申請書
 
 
